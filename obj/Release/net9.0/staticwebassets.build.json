@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EZKQlWrla4mU4UgFTg99/GbjCgTYckFa+5v46VyxUFQ=",
+  "Source": "HBYSClientApi",
+  "BasePath": "_content/HBYSClientApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
